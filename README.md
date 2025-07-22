@@ -22,26 +22,6 @@ Currently, this repository includes the following project:
 
 ---
 
-### **Getting Started**
-
-To view the code or run this project:
-
-1.  **Clone the repository to your local machine:**
-    ```bash
-    git clone [https://github.com/YourUsername/My-Python-Projects.git](https://github.com/YourUsername/My-Python-Projects.git)
-    ```
-2.  **Navigate into the project directory:**
-    ```bash
-    cd My-Python-Projects/Todo_List_App
-    ```
-3.  **Run the main script:**
-    ```bash
-    python main.py
-    ```
-    *(Note: Some projects might require additional libraries. Please check for a `requirements.txt` file within individual project folders if present.)*
-
----
-
 **Thanks for visiting my repository!** I hope you find something interesting and useful here.
 
 ---
